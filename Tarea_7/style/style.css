@@ -1,0 +1,104 @@
+    * {
+        font-family: cursive;
+        font-weight:bolder;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #titulo {
+        text-align: center;
+        margin-top: 25px;
+        color: #052b0b;
+    }
+    
+    #titulo p {
+        text-align: center;
+        font-size: 25px;
+        
+    }
+    
+    body {
+        background-color: #1180b8;
+    }
+    
+    .card {
+        width: 400px;
+        margin-left: 10px;
+        margin-top: 10px;
+        float: none;
+    }
+    
+    #ejercicios {
+        margin-top: 50px;
+        align-items: center;
+        position: relative;
+        margin-bottom: 50%;
+    }
+  
+  
+    
+    #botonregresar,
+    #botonir {
+        background-color: #00ccff;
+        color: #023047;
+        border-color: #ffb703;
+    }
+    
+    #ejercicio1_0,
+    #ejercicio1_1,
+    #ejercicio1_2 {
+        font-size: 35px;
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 200px;
+        align-items: center;
+    }
+    
+    #ejercicio1_0 {
+        background-color: #32fb00;
+        list-style-type: square;
+    }
+    
+    #ejercicio1_0 li,
+    #ejercicio1_1 li,
+    #ejercicio1_2 li {
+        margin-left: 20px;
+    }
+    
+    #ejercicio1_1 {
+        background-color: #32fb00;
+    }
+    
+    #ejercicio1_2 {
+        background-color: #32fb00;
+    }
+    
+    #ejercicio_numero4 {
+        margin-top: 100px;
+        align-items: center;
+        position:initial;
+        margin-bottom: 10%;
+        background-color: #32fb00;
+        font-size: 35px;
+    }
+    
+    #ejercicio_numero_4 {
+        margin-top: 100px;
+        align-items: center;
+        position: relative;
+        margin-bottom: 10%;
+        background-color: #32fb00;
+        font-size: 35px;
+       
+    }
+    
+    #ejerci3 {
+        margin-top: 100px;
+        align-items: center;
+        position: relative;
+        margin-bottom: 10%;
+        background-color: #32fb00;
+        font-size: 35px;
+        margin-left: 10px;
+        
+    }
